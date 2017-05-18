@@ -1,5 +1,7 @@
 # Career Quest
 
+Visit site here: http://career-quest.herokuapp.com/
+
 This is an application for organizing your job search!  Users can create unique accounts, and store and access data for all things job-related in their career quest. Visit the site here! heroku.com...
 
 ## Authors
