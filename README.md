@@ -2,7 +2,7 @@
 
 Visit site here: http://career-quest.herokuapp.com/
 
-This is an application for organizing your job search!  Users can create unique accounts, and store and access data for all things job-related in their career quest. Visit the site here! heroku.com...
+This week 10 team week project is an application for organizing your job search!  Users can create unique accounts, and store and access data for all things job-related in their career quest. Visit the site here! heroku.com...
 
 ## Authors
 
@@ -55,15 +55,6 @@ Sinatra will now make this project available in your browser by going to localho
 |Add contacts within these companies | Jane Doe- senior programmer at Awesome Company | success! |
 |Keep track of your correspondence with your contacts! | interview scheduled for next Tuesday| Your schedule has been updated! |
 |Update your application status! | Offer made!| Success! |
-
-## Screenshots
-
-**Store Page:**
-![Image ofScreenshot](public/img/.png)
-
-**Brand Page:**
-![Image ofScreenshot](public/img/.png)
-
 
 ## Built With
 
